@@ -1,0 +1,8 @@
+Origin,Manufacturer,Color,Decade,Type,ExampleType
+Japan,honda,blue,1980,economy,Positive
+Japan,toyota,green,1970,sports,Negative
+Japan,toyota,blue,1990,economy,Positive
+Usa,chrysler,red,1980,economy,Negative
+Japan,honda,white,1980,economy,Positive
+Japan,toyota,green,1980,economy,Positive
+Japan,honda,red,1990,economy,Negative
